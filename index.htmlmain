@@ -1,0 +1,9 @@
+# igor-page-
+Ігор казав що ти погана люшина
+echo "# igor-page" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Vitalik3458/igor-page.git
+git push -u origin main
